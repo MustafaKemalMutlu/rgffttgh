@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/QvAsxJ42c8waaSP7fZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rickandmorty-season-1-adult-swim-rick-and-morty-QvAsxJ42c8waaSP7fZ">via GIPHY</a></p>
+
 # 💫 About Me:
 🔭 I’m currently working on baclend development<br>🌱 I’m currently learning express.js, mongoose,etc.<br>💬 Ask me about backend techs.<br>
 
